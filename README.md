@@ -1,7 +1,7 @@
 
 # Meu repositório de estudos - Git e GitHub
 
-## Objetivos da Aula:
+## Objetivos da nossa  Aula:
 
 1. Criar um repositório local e adiciona-lo ao GitHub-remoto;[]
 
