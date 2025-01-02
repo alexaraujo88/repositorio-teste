@@ -14,3 +14,5 @@
 5. Realizar um Pull e merge; []
 
 6. Criar nosso primeiro Fork; []
+
+1 atualização do arquivo README
